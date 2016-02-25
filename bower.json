@@ -1,0 +1,15 @@
+{
+  "name": "Rock-paper-scissors",
+  "description": "Rock-paper-scissors game",
+  "authors": [
+    "Ihab Khattab <ikhattab.mail@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-ui-router": "^0.2.18"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.5.0"
+  }
+}
